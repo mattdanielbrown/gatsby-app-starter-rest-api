@@ -18,7 +18,7 @@
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-content-loader": "^4.2.1",
-    "react-dom": "^16.8.6",
+    "react-dom": "^19.1.1",
     "react-helmet": "^5.2.1",
     "unnamed": "^1.2.6"
   },
